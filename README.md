@@ -1,5 +1,5 @@
-# Hi there 👋
-fullstackdeveloper.png
+#  Full-Stack Developer 
+
 <p align="center">
   <img src="./fullstackdeveloper1.png" width="100%">
 </p>
@@ -8,7 +8,7 @@ fullstackdeveloper.png
 
 **Computer Engineer | Full-Stack Developer | Java & Spring Boot**
 
-# 👋 Olá, eu sou Estrela Marcolino!
+# 👋 Olá!
 
 Sou Engenheiro da Computação, com interesse no desenvolvimento de software, aplicações web e soluções tecnológicas.
 
