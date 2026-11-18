@@ -6,10 +6,25 @@
 
 # Estrela Marcolino
 
-**Computer Engineer | Full-Stack Developer | Java & Spring Boot**
+**Computer Engineer **
+Java | Spring Boot | React |Node.js |Python | PostgreSQL
 
 # 👋 Olá!
 
 Sou Engenheiro da Computação, com interesse no desenvolvimento de software, aplicações web e soluções tecnológicas.
 
 Tenho experiência com desenvolvimento de APIs REST, aplicações backend, integração com bancos de dados e desenvolvimento Full Stack.
+
+## 🚀 Tecnologias e ferramentas
+
+### Backend
+Java | Spring Boot | Spring Security | Node.js | Python | Kotlin
+
+### Frontend
+JavaScript | React | HTML5 | CSS3
+
+### Banco de dados
+PostgreSQL | MySQL | SQL
+
+### Ferramentas
+Git | GitHub | Docker | Maven | Postman
