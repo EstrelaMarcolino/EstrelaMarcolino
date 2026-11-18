@@ -30,8 +30,8 @@ Git | GitHub | Docker | Maven | Postman
 
 ## 💻 Projetos em destaque
 
-- ##Sistema de Saúde e Bem-Estar-APLICATIVO:  Java, Spring Boot, PostgreSQL e JWT.
-- ##World Fashion Models (WFM)-SOFTWARE patentiado: HTML,CSS, React, Node.js e APIs REST.
-- ##ECO FOOD-APLICATIVO:java,Spring boot,postgreSQL e JWT.
-- ##Robô de sinal Trading-pyhton(100%).
-- ##Robô de arbitragem Trading-python(100%).
+- Sistema de Saúde e Bem-Estar-APLICATIVO:  Java, Spring Boot, PostgreSQL e JWT.
+- World Fashion Models (WFM)-SOFTWARE patentiado: HTML,CSS, React, Node.js e APIs REST.
+- ECO FOOD-APLICATIVO:java,Spring boot,postgreSQL e JWT.
+- Robô de sinal Trading-pyhton(100%).
+- Robô de arbitragem Trading-python(100%).
