@@ -1,7 +1,7 @@
 # Hi there 👋
 fullstackdeveloper.png
 <p align="center">
-  <img src="./fullstackdeveloper.png" width="100%">
+  <img src="./fullstackdeveloper.png" width="90%">
 </p>
 
 # Estrela Marcolino
