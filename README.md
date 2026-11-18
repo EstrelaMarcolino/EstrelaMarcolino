@@ -7,3 +7,9 @@ fullstackdeveloper.png
 # Estrela Marcolino
 
 **Computer Engineer | Full-Stack Developer | Java & Spring Boot**
+
+# 👋 Olá, eu sou Estrela Marcolino!
+
+Sou Engenheiro da Computação, com interesse no desenvolvimento de software, aplicações web e soluções tecnológicas.
+
+Tenho experiência com desenvolvimento de APIs REST, aplicações backend, integração com bancos de dados e desenvolvimento Full Stack.
