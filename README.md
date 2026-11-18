@@ -6,8 +6,7 @@
 
 # Estrela Marcolino
 
-**Computer Engineer **
-Java | Spring Boot | React |Node.js |Python | PostgreSQL
+Computer Engineer 
 
 # 👋 Olá!
 
