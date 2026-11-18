@@ -35,3 +35,17 @@ Git | GitHub | Docker | Maven | Postman
 - ECO FOOD-APLICATIVO:java,Spring boot,postgreSQL e JWT.
 - Robô de sinal Trading-pyhton(100%).
 - Robô de arbitragem Trading-python(100%).
+  
+  ## 🎓 Formação acadêmica
+
+**Bacharelado em Engenharia da Computação**
+Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB).
+
+** Pós-graduação(IMES)**
+Ciência de Dados e Inteligência Artificial Aplicada.
+
+# IDIOMAS 
+# Português – Fluente. 
+# Inglês – Intermediário/Avançado 
+# Espanhol – Intermediário. 
+# Françes –Básico
