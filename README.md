@@ -16,30 +16,30 @@ Tenho experiência com desenvolvimento de APIs REST, aplicações backend, integ
 
 ## 💼 Experiência Profissional
 
-# Desenvolvimento Web e Manutenção de APIs — Estágio
-## DTI · UNILAB | Brasil · 2024–2025**
+### Desenvolvimento Web e Manutenção de APIs — Estágio
+## DTI · UNILAB | Brasil · 2024–2025
 ### Desenvolvimento e manutenção de aplicações web e APIs REST.
 ### Integração entre aplicações, correção de erros, testes e documentação técnica.
 ### 420 horas de experiência profissional.
-
-#Desenvolvedor Full Stack Sênior
+//////////////////////////////////////////////////////////////////////////////
+## Desenvolvedor Full Stack Sênior
 ## P.N. Clique, Lda. | Angola · Remoto · 2023–2024
 ### Desenvolvimento de aplicações frontend e backend.
 ### Criação e integração de APIs e gerenciamento de bancos de dados.
 ### Manutenção e otimização de sistemas.
-
-# Desenvolvedor de Software Sênior 
+///////////////////////////////////////////////////////////////////////////
+## Desenvolvedor de Software Sênior 
 ## Software House | Angola · Remoto · 2021–2023
 ### Desenvolvimento e manutenção de sistemas web e APIs REST.
 ### Modelagem de bancos de dados, testes e correção de erros.
 ### Participação nas etapas de desenvolvimento e implantação.
-
+/////////////////////////////////////////////////////////////////////////
 #Estágio em Desenvolvimento de Software
 ## Software House | Angola · 2020–2021
 ### Apoio ao desenvolvimento e manutenção de aplicações web.
 ### Implementação de funcionalidades, testes e correção de erros.
 ### Contato com tecnologias de programação e bancos de dados.
-
+/////////////////////////////////////////////////////////////////////////
 ## 🚀 Tecnologias e ferramentas
 
 ### Backend
@@ -70,14 +70,14 @@ Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB)
 ### Pós-graduação(IMES)
 Ciência de Dados e Inteligência Artificial Aplicada.
 
-# IDIOMAS 
+## IDIOMAS 
 
 ### Português – Fluente. 
 ### Inglês – Intermediário/Avançado 
 ### Espanhol – Intermediário. 
 ### Françes –Básico
 
-# DIFERENCIAIS 
+## DIFERENCIAIS 
   
 ### Bacharel em Engenharia da Computação 
 ### Pós-graduação em Ciência de Dados e Inteligência Artificial Aplicada 
@@ -98,9 +98,9 @@ Ciência de Dados e Inteligência Artificial Aplicada.
 ### Experiência com análise de dados e Power BI 
 ### Conhecimentos em sistemas embarcados e automação
 
-# TECNOLOGIAS PRINCIPAIS 
+## TECNOLOGIAS PRINCIPAIS 
 Java | Spring Boot | JavaScript | React | Node.js | Python | Kotlin | Android | HTML | CSS | REST API | PostgreSQL | MySQL | 
 SQL | Git | GitHub | Docker | Figma 
-# LINKS  
+## LINKS  
 ### Linkedin: www.linkedin.com/in/estrela-josé-marcolino-158972267 
 ### Portfólio: file:///C:/Users/vanes/Downloads/portfolio-estrela-marcolino-v1-atualizado/portfolio-estrela/index.html#sobre 
