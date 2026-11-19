@@ -21,7 +21,7 @@ Tenho experiência com desenvolvimento de APIs REST, aplicações backend, integ
 ### Desenvolvimento e manutenção de aplicações web e APIs REST.
 ### Integração entre aplicações, correção de erros, testes e documentação técnica.
 ### 420 horas de experiência profissional.
-//////////////////////////////////////////////////////////////////////////////
+#########################################################################################################
 ## Desenvolvedor Full Stack Sênior
 ## P.N. Clique, Lda. | Angola · Remoto · 2023–2024
 ### Desenvolvimento de aplicações frontend e backend.
