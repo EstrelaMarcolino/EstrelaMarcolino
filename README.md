@@ -34,7 +34,7 @@ Tenho experiência com desenvolvimento de APIs REST, aplicações backend, integ
 ### Modelagem de bancos de dados, testes e correção de erros.
 ### Participação nas etapas de desenvolvimento e implantação.
 ###################################################################################
-# Estágio em Desenvolvimento de Software
+## Estágio em Desenvolvimento de Software
 ## Software House | Angola · 2020–2021
 ### Apoio ao desenvolvimento e manutenção de aplicações web.
 ### Implementação de funcionalidades, testes e correção de erros.
